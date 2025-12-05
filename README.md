@@ -21,7 +21,7 @@ Arabic presents unique challenges such as rich morphology, orthographic ambiguit
 | **RNN (Deep Learning)** | 73.3% | 0.70 | Struggles with long dependencies; weakest model. |
 
 ### Text Summarization – Model Comparison
-| Model                | Semantic F1 | Compression Ratio | Summary Quality |
+| Model                | Semantic F1 | Compression Ratio | Notes |
 |----------------------|---------------|----------------------|-----------------|
 | **mT5 (Abstractive)** | **0.77**      | **0.27**             | Best summaries; fluent, concise, human-like. |
 | **BERT (Extractive)** | 0.61          | 0.38                 | Good meaning preservation; moderate compression. |
